@@ -1,0 +1,1261 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.4f1 (0abb6314276a) revision 703331'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1165; Version 2009; 64bit' Language: 'en' Physical Memory: 16260 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Saisantoshi Lakshmi/FlyWeightPattern
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56916
+Successfully changed project path to: C:/Users/Saisantoshi Lakshmi/FlyWeightPattern
+C:/Users/Saisantoshi Lakshmi/FlyWeightPattern
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 37.95 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.4f1 (0abb6314276a)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Saisantoshi Lakshmi/FlyWeightPattern/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x3ea0)
+    Vendor:   
+    VRAM:     8130 MB
+    Driver:   26.20.100.8141
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56424
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003000 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 37.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.268 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000744 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.215 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1128 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.0 MB.
+System memory in use after: 71.0 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1587.
+Total: 2.945800 ms (FindLiveObjects: 0.245200 ms CreateObjectMapping: 0.065400 ms MarkObjects: 2.510600 ms  DeleteObjects: 0.122700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/SetPeopleInfo.cs
+  artifactKey: Guid(4ddddfec8afe4c7429e147059a363d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SetPeopleInfo.cs using Guid(4ddddfec8afe4c7429e147059a363d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e1a3abb02d23d547e764cf75e4fb84d') in 0.078307 seconds
+  Import took 0.080731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.321298 seconds.
+  path: Assets/SetPeopleInfo.cs
+  artifactKey: Guid(4ddddfec8afe4c7429e147059a363d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SetPeopleInfo.cs using Guid(4ddddfec8afe4c7429e147059a363d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '658d3f8fb4ae4be553bb842b47cedb65') in 0.003031 seconds
+  Import took 0.005471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.723731 seconds.
+  path: Assets/SetPeopleInfo.cs
+  artifactKey: Guid(4ddddfec8afe4c7429e147059a363d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SetPeopleInfo.cs using Guid(4ddddfec8afe4c7429e147059a363d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '719158401ebf2423f1d3eb2d59dec698') in 0.002769 seconds
+  Import took 0.004701 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000736 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.808 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1122 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.8 MB.
+System memory in use after: 70.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1590.
+Total: 4.013300 ms (FindLiveObjects: 0.242500 ms CreateObjectMapping: 0.076500 ms MarkObjects: 3.559100 ms  DeleteObjects: 0.132300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000620 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.776 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1122 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.8 MB.
+System memory in use after: 70.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1593.
+Total: 2.657100 ms (FindLiveObjects: 0.186300 ms CreateObjectMapping: 0.060300 ms MarkObjects: 2.349100 ms  DeleteObjects: 0.060200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 59.289599 seconds.
+  path: Assets/SetPeopleInfo.cs
+  artifactKey: Guid(4ddddfec8afe4c7429e147059a363d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SetPeopleInfo.cs using Guid(4ddddfec8afe4c7429e147059a363d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1129b8b8ae86d2b3c949f1532def6b7e') in 0.004489 seconds
+  Import took 0.006440 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000630 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.792 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1122 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.8 MB.
+System memory in use after: 70.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1596.
+Total: 2.586600 ms (FindLiveObjects: 0.169300 ms CreateObjectMapping: 0.058600 ms MarkObjects: 2.293800 ms  DeleteObjects: 0.063800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 163.441261 seconds.
+  path: Assets/SetPeopleInfo.cs
+  artifactKey: Guid(4ddddfec8afe4c7429e147059a363d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SetPeopleInfo.cs using Guid(4ddddfec8afe4c7429e147059a363d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37cb9a96e5f52c0beb25cb7f9d068595') in 0.003988 seconds
+  Import took 0.005813 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000697 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.769 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1122 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.8 MB.
+System memory in use after: 70.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1599.
+Total: 1.729700 ms (FindLiveObjects: 0.130100 ms CreateObjectMapping: 0.030400 ms MarkObjects: 1.508400 ms  DeleteObjects: 0.059400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 318.430818 seconds.
+  path: Assets/SetPeopleInfo.cs
+  artifactKey: Guid(4ddddfec8afe4c7429e147059a363d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SetPeopleInfo.cs using Guid(4ddddfec8afe4c7429e147059a363d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '333cf7f94418ba1a082800fe606c32e3') in 0.004229 seconds
+  Import took 0.006091 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000685 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.777 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1122 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.8 MB.
+System memory in use after: 70.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1602.
+Total: 2.045500 ms (FindLiveObjects: 0.200300 ms CreateObjectMapping: 0.096800 ms MarkObjects: 1.687900 ms  DeleteObjects: 0.059500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 419.273867 seconds.
+  path: Assets/peoplePrefab.cs
+  artifactKey: Guid(0899711940457ef4699fc09a91531fbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/peoplePrefab.cs using Guid(0899711940457ef4699fc09a91531fbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '011a7dd8cb0e9d41d1fb052790c620f9') in 0.017142 seconds
+  Import took 0.021436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1139.317678 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8fd176619a581f2987f75c2c5a4a61f') in 0.061596 seconds
+  Import took 0.063655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002047 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8fd176619a581f2987f75c2c5a4a61f') in 0.002846 seconds
+  Import took 0.005170 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000652 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.742 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1122 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.9 MB.
+System memory in use after: 70.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1605.
+Total: 1.811200 ms (FindLiveObjects: 0.129400 ms CreateObjectMapping: 0.031000 ms MarkObjects: 1.581300 ms  DeleteObjects: 0.068100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000612 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.778 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1122 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.9 MB.
+System memory in use after: 70.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1608.
+Total: 2.526900 ms (FindLiveObjects: 0.339500 ms CreateObjectMapping: 0.136200 ms MarkObjects: 1.979500 ms  DeleteObjects: 0.070300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000637 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.760 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1122 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.9 MB.
+System memory in use after: 70.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1611.
+Total: 1.793500 ms (FindLiveObjects: 0.157000 ms CreateObjectMapping: 0.036300 ms MarkObjects: 1.540000 ms  DeleteObjects: 0.058800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 416.374077 seconds.
+  path: Assets/PeopleScriptableObjects
+  artifactKey: Guid(0a584a41dc6228b42b46e7c077a79af5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PeopleScriptableObjects using Guid(0a584a41dc6228b42b46e7c077a79af5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3a4b9dabf7d04be85c1d00da3044121') in 0.009965 seconds
+  Import took 0.012539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.117915 seconds.
+  path: Assets/PeopleScriptableObjects/People1.asset
+  artifactKey: Guid(ce62667ab2edf0242a7ee6168f59c1fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PeopleScriptableObjects/People1.asset using Guid(ce62667ab2edf0242a7ee6168f59c1fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd519f6b81a7d08349fb886b0489be944') in 0.014496 seconds
+  Import took 0.016474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000787 seconds.
+  path: Assets/PeopleScriptableObjects/People1.asset
+  artifactKey: Guid(ce62667ab2edf0242a7ee6168f59c1fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PeopleScriptableObjects/People1.asset using Guid(ce62667ab2edf0242a7ee6168f59c1fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd519f6b81a7d08349fb886b0489be944') in 0.002893 seconds
+  Import took 0.005287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.652616 seconds.
+  path: Assets/PeopleScriptableObjects/People.asset
+  artifactKey: Guid(ce62667ab2edf0242a7ee6168f59c1fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PeopleScriptableObjects/People.asset using Guid(ce62667ab2edf0242a7ee6168f59c1fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b550c9219a60e7b004f068362103bc9') in 0.007567 seconds
+  Import took 0.009833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.981682 seconds.
+  path: Assets/Materials/Ash.tif
+  artifactKey: Guid(9b8835c982751400da2fc37f02637d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Ash.tif using Guid(9b8835c982751400da2fc37f02637d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b219df3db90e0913029ae364291a461') in 0.200392 seconds
+  Import took 0.202599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/People/Brutius.fbm/Brutius_Body_Gloss.png
+  artifactKey: Guid(98588c14196956b47b60c3e14634f332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Brutius.fbm/Brutius_Body_Gloss.png using Guid(98588c14196956b47b60c3e14634f332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbf378baccf24c98b8040fb71a078218') in 0.168312 seconds
+  Import took 0.170101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/People/Brutius.fbm/Brutius_Body_Diffuse.png
+  artifactKey: Guid(ce723f55055d342feba6e014905485d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Brutius.fbm/Brutius_Body_Diffuse.png using Guid(ce723f55055d342feba6e014905485d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '854d0d733ef3b78b9d0eacac937fbe06') in 0.121150 seconds
+  Import took 0.123237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Materials/AshN.tif
+  artifactKey: Guid(d7a6effe212044ab882a62968bece16c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/AshN.tif using Guid(d7a6effe212044ab882a62968bece16c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4d6b2fae1771e3055666d2395d9865d') in 0.148303 seconds
+  Import took 0.150046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/People/Brutius.fbm/Brutius_Body_Normal.png
+  artifactKey: Guid(97bf6718209254ccc9c0c6f6d459a13d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Brutius.fbm/Brutius_Body_Normal.png using Guid(97bf6718209254ccc9c0c6f6d459a13d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a474ed2fed87eabd57be0b1e5aeefcb3') in 0.086703 seconds
+  Import took 0.097853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/People/Brutius.fbm/Brutius_Bottom_Gloss.png
+  artifactKey: Guid(4d76087ea7b8fba45adbe038798574c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Brutius.fbm/Brutius_Bottom_Gloss.png using Guid(4d76087ea7b8fba45adbe038798574c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1180e50490cd69370da82bed6bc9963f') in 0.060462 seconds
+  Import took 0.062379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/People/Brutius.fbm/Brutius_Bottom_Diffuse.png
+  artifactKey: Guid(6c761eae741d84942b6240e70770af50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Brutius.fbm/Brutius_Bottom_Diffuse.png using Guid(6c761eae741d84942b6240e70770af50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2573bc942472acd58d282084d78a23f1') in 0.046298 seconds
+  Import took 0.048147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/People/Brutius.fbm/Brutius_Body_Opacity.png
+  artifactKey: Guid(0d3c90ea72c9b414e8efc8688fa73f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Brutius.fbm/Brutius_Body_Opacity.png using Guid(0d3c90ea72c9b414e8efc8688fa73f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67c147017d8cfd0483842a13f0f2d6fc') in 0.066023 seconds
+  Import took 0.067896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/People/Brutius.fbm/Brutius_Body_Specular.png
+  artifactKey: Guid(d803089394612694796e9a055c6cce37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Brutius.fbm/Brutius_Body_Specular.png using Guid(d803089394612694796e9a055c6cce37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '485b5da5a7542210d0050a28a136c7d3') in 0.107188 seconds
+  Import took 0.109562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.629046 seconds.
+  path: Assets/People/FunkeyMonkey.fbm
+  artifactKey: Guid(b622313dc9df4c34ab1495becb73f758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/FunkeyMonkey.fbm using Guid(b622313dc9df4c34ab1495becb73f758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc0880928ae30185f15de70618042185') in 0.018888 seconds
+  Import took 0.021091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.046618 seconds.
+  path: Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Beard_Diffuse.png
+  artifactKey: Guid(1f9e34d897592431d8e8a7bec2aa8675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Beard_Diffuse.png using Guid(1f9e34d897592431d8e8a7bec2aa8675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e6548d46b056af5d4d3a769841958c3') in 0.062635 seconds
+  Import took 0.064723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Body_Gloss.png
+  artifactKey: Guid(bdeedd5b12fd1e643881f9c2830dbd20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Body_Gloss.png using Guid(bdeedd5b12fd1e643881f9c2830dbd20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42013850c07038a5e6f72fba1b897754') in 0.097876 seconds
+  Import took 0.100342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Bottom_Gloss.png
+  artifactKey: Guid(e5c46e4f9256b65429370b3cf62cc5de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Bottom_Gloss.png using Guid(e5c46e4f9256b65429370b3cf62cc5de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e1cb0346e6834165d47d63812a39bc7') in 0.054286 seconds
+  Import took 0.056670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Hair_Gloss.png
+  artifactKey: Guid(77993948a12886e478d7a62fb52ce8d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Hair_Gloss.png using Guid(77993948a12886e478d7a62fb52ce8d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b815f90c1468b663e2d2089f76f7c375') in 0.118912 seconds
+  Import took 0.120831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Body_Diffuse.png
+  artifactKey: Guid(4556b18c198484c0b9d5604d4821b642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Body_Diffuse.png using Guid(4556b18c198484c0b9d5604d4821b642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd0a1dd1059eb754260ba78cc2b4cf62') in 0.080997 seconds
+  Import took 0.082882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Hair_Normal.png
+  artifactKey: Guid(dd5a4a6d659b54ad8a044cda13240aa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Hair_Normal.png using Guid(dd5a4a6d659b54ad8a044cda13240aa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab6fde95adcd6d6f938318d6f6fea99e') in 0.059980 seconds
+  Import took 0.061703 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Shoes_Normal.png
+  artifactKey: Guid(bc3700ef3980d452295a3822cdbf3a06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Shoes_Normal.png using Guid(bc3700ef3980d452295a3822cdbf3a06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31dc2f333f42c22639a4c36d392da190') in 0.091654 seconds
+  Import took 0.093561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Body_Opacity.png
+  artifactKey: Guid(7db38b41dd04437459ce137bdcb3345c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Body_Opacity.png using Guid(7db38b41dd04437459ce137bdcb3345c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ff36fe42bbcee99670bf5cf0112288b') in 0.122088 seconds
+  Import took 0.124788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Bottom_Specular.png
+  artifactKey: Guid(4186889bcb42ed8438da5c1d7a13a617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Bottom_Specular.png using Guid(4186889bcb42ed8438da5c1d7a13a617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd29b28b7a6125d4e3b067a0a24d2fcb6') in 0.057084 seconds
+  Import took 0.059497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Body_Specular.png
+  artifactKey: Guid(d2195e2ccb21e5440abaa2f56f9693a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Body_Specular.png using Guid(d2195e2ccb21e5440abaa2f56f9693a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6b93654a0aea1d1610cf990edd788aa') in 0.066027 seconds
+  Import took 0.068141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Beard_Normal.png
+  artifactKey: Guid(b9ae2df3ec6214337a9cdcf143994b96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Beard_Normal.png using Guid(b9ae2df3ec6214337a9cdcf143994b96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6e9ac5ad7c8bb53c3f72ec378bddfee') in 0.089200 seconds
+  Import took 0.091541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Hair_Opacity.png
+  artifactKey: Guid(eb9e8c8984a580e40b63d31b83cf69c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Hair_Opacity.png using Guid(eb9e8c8984a580e40b63d31b83cf69c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8658485dd2755fcb539edcd1b2b14722') in 0.083265 seconds
+  Import took 0.085476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Top_Gloss.png
+  artifactKey: Guid(fe9d86304d5ab7241869668972c95d45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Top_Gloss.png using Guid(fe9d86304d5ab7241869668972c95d45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '546e3f8e2e13f9fae911d436b836cf39') in 0.038045 seconds
+  Import took 0.039858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Shoes_Opacity.png
+  artifactKey: Guid(7b5fef2a9e4cef3499ea363507e072fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Shoes_Opacity.png using Guid(7b5fef2a9e4cef3499ea363507e072fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6bf06b8127a6de395e9b4bf50eda53a') in 0.074209 seconds
+  Import took 0.076276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Top_Diffuse.png
+  artifactKey: Guid(4ff2e9b0f084845119684c4076cfa705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Top_Diffuse.png using Guid(4ff2e9b0f084845119684c4076cfa705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a315627f2341b1e1c1783364f91ac22') in 0.070317 seconds
+  Import took 0.072152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Shoes_Gloss.png
+  artifactKey: Guid(791d2679a69921941b62e054e47c1909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Shoes_Gloss.png using Guid(791d2679a69921941b62e054e47c1909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd495052a172bbb5a73037ee59735528') in 0.062852 seconds
+  Import took 0.064591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Top_Normal.png
+  artifactKey: Guid(45645826e9f334bed9675e201a396c78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Top_Normal.png using Guid(45645826e9f334bed9675e201a396c78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '428175f76301654b306f269e986e5305') in 0.043010 seconds
+  Import took 0.044772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Body_Normal.png
+  artifactKey: Guid(e81e6442845f144e49ac28f7e5b55f4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Body_Normal.png using Guid(e81e6442845f144e49ac28f7e5b55f4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6ffbb84496870625dc45bedafc6b0dc') in 0.113326 seconds
+  Import took 0.115618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Top_Opacity.png
+  artifactKey: Guid(d338e98a82d2e0f4ebdfe9a5c890a100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Top_Opacity.png using Guid(d338e98a82d2e0f4ebdfe9a5c890a100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb680866b7d7abaf69fab11e646fc614') in 0.031160 seconds
+  Import took 0.033235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Top_Specular.png
+  artifactKey: Guid(1d6fa71054d602d4daa58ffbfb6348d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Top_Specular.png using Guid(1d6fa71054d602d4daa58ffbfb6348d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6da6ad58cbdf5df2ce457ae0bac58ca9') in 0.086120 seconds
+  Import took 0.088524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Beard_Opacity.png
+  artifactKey: Guid(c54b9e872c479f04d9e291e94f9152c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Beard_Opacity.png using Guid(c54b9e872c479f04d9e291e94f9152c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7d4b4bfee8b6db5d665f3a58e14cc5e') in 0.054993 seconds
+  Import took 0.057165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Shoes_Diffuse.png
+  artifactKey: Guid(ffabfacfad82a490ab8d69e7bce79b93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Shoes_Diffuse.png using Guid(ffabfacfad82a490ab8d69e7bce79b93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9383465e4e0dd3aaa4fe051686df21c') in 0.026732 seconds
+  Import took 0.028423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Hair_Diffuse.png
+  artifactKey: Guid(6baeb2099a6a4468bbc5ee7a51e27b65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Hair_Diffuse.png using Guid(6baeb2099a6a4468bbc5ee7a51e27b65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da72bf22d7f8c44ed177fc4610046044') in 0.051554 seconds
+  Import took 0.053342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Beard_Specular.png
+  artifactKey: Guid(7dc7e5c149d121c48ae8f47955dd71df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Beard_Specular.png using Guid(7dc7e5c149d121c48ae8f47955dd71df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c867e12189849a7a2c4dc9ff61b0924c') in 0.049123 seconds
+  Import took 0.050840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Beard_Gloss.png
+  artifactKey: Guid(18e5c85068862b34da128a7cfc04abb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Beard_Gloss.png using Guid(18e5c85068862b34da128a7cfc04abb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e4c6b360f8ec934448cae432c2e9c56') in 0.079062 seconds
+  Import took 0.081587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Bottom_Diffuse.png
+  artifactKey: Guid(f0b963c4b61e24a67a28fbdba5a629dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Bottom_Diffuse.png using Guid(f0b963c4b61e24a67a28fbdba5a629dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29d402bb404b4d6f8d93b658424e101b') in 0.056753 seconds
+  Import took 0.059243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Shoes_Specular.png
+  artifactKey: Guid(2d1cc3813d5071a4985573464b545f3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Shoes_Specular.png using Guid(2d1cc3813d5071a4985573464b545f3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e00ebd13b87a5d7922bcb7bd8857389') in 0.137143 seconds
+  Import took 0.139114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Hair_Specular.png
+  artifactKey: Guid(82958397d32b46a4bb8809e1131f77f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Hair_Specular.png using Guid(82958397d32b46a4bb8809e1131f77f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbf96b07afa578065535ca561c2acd8a') in 0.041417 seconds
+  Import took 0.043317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Bottom_Normal.png
+  artifactKey: Guid(9d0dd22b5233447588af16352de270ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Bottom_Normal.png using Guid(9d0dd22b5233447588af16352de270ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '233b5fb0994f83922f498e7937bcf922') in 0.046187 seconds
+  Import took 0.048085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Bottom_Opacity.png
+  artifactKey: Guid(667298d81ae5be04ea71b17a86686886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/FunkeyMonkey.fbm/FunkeyMonkey_Bottom_Opacity.png using Guid(667298d81ae5be04ea71b17a86686886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65e95a74508a0922abefae4d32737280') in 0.060554 seconds
+  Import took 0.062628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.621340 seconds.
+  path: Assets/PeopleData/People 3.asset
+  artifactKey: Guid(0c70e68bd4ea37e49b1397bf6fb93d80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PeopleData/People 3.asset using Guid(0c70e68bd4ea37e49b1397bf6fb93d80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37f3e66a0a4ac8172a350e8964e38df5') in 0.006059 seconds
+  Import took 0.008441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.953161 seconds.
+  path: Assets/PeopleScriptableObjects
+  artifactKey: Guid(1508bc4c3d544174dacd4588b824048e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PeopleScriptableObjects using Guid(1508bc4c3d544174dacd4588b824048e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faad825ef822a2c1749b8a644952ba78') in 0.002658 seconds
+  Import took 0.004725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 127.236687 seconds.
+  path: Assets/People/Brutius.fbm/Brutius_Bottom_Normal.png
+  artifactKey: Guid(e4d3d522750ff4a7987173fc8c757844) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Brutius.fbm/Brutius_Bottom_Normal.png using Guid(e4d3d522750ff4a7987173fc8c757844) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09d73ea41030bd69163050e492837033') in 0.096316 seconds
+  Import took 0.098907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/People/Brutius.fbm/Brutius_Moustache_Diffuse.png
+  artifactKey: Guid(443741cf5216343a78852bb20a331d8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Brutius.fbm/Brutius_Moustache_Diffuse.png using Guid(443741cf5216343a78852bb20a331d8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b587733bb7b37545121f155dc754df2') in 0.048768 seconds
+  Import took 0.050628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/People/Brutius.fbm/Brutius_Hat_Specular.png
+  artifactKey: Guid(825630acdfb658d4b87f4d6e19f76805) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Brutius.fbm/Brutius_Hat_Specular.png using Guid(825630acdfb658d4b87f4d6e19f76805) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1a61437537651613ae40e4d2d6961f5') in 0.088127 seconds
+  Import took 0.090124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/People/Brutius.fbm/Brutius_Hat_Normal.png
+  artifactKey: Guid(c6494049d894d4b76ae6791fa802b7b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Brutius.fbm/Brutius_Hat_Normal.png using Guid(c6494049d894d4b76ae6791fa802b7b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30f2faa77f9e693d0ac1eb8eaaf84679') in 0.047676 seconds
+  Import took 0.049399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/People/Brutius.fbm/Brutius_Bottom_Opacity.png
+  artifactKey: Guid(218ba4adddaa3e740805b722d3818494) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Brutius.fbm/Brutius_Bottom_Opacity.png using Guid(218ba4adddaa3e740805b722d3818494) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa6ab95bcb2f92a2d0de37ae419b660d') in 0.065748 seconds
+  Import took 0.067659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/People/Brutius.fbm/Brutius_Shoes_Gloss.png
+  artifactKey: Guid(33de51c399678b742a3de517addd5080) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Brutius.fbm/Brutius_Shoes_Gloss.png using Guid(33de51c399678b742a3de517addd5080) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afa97c122c6431fd29a67821924ab915') in 0.069823 seconds
+  Import took 0.071561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/People/Brutius.fbm/Brutius_Hat_Diffuse.png
+  artifactKey: Guid(d3d859e21f9ca4a5a89564fda8f82eaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Brutius.fbm/Brutius_Hat_Diffuse.png using Guid(d3d859e21f9ca4a5a89564fda8f82eaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abb1cfa8d8297b19381bf0e573c59801') in 0.031478 seconds
+  Import took 0.033501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/People/Brutius.fbm/Brutius_Moustache_Specular.png
+  artifactKey: Guid(dd3cd32dc6b407445ab17cb21925eebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Brutius.fbm/Brutius_Moustache_Specular.png using Guid(dd3cd32dc6b407445ab17cb21925eebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '313910352e6657ac6b7c40cf52f2c8fa') in 0.060797 seconds
+  Import took 0.062820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/People/Brutius.fbm/Brutius_Hat_Opacity.png
+  artifactKey: Guid(6e86a695578e9014cbe18b2bb2eb86a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Brutius.fbm/Brutius_Hat_Opacity.png using Guid(6e86a695578e9014cbe18b2bb2eb86a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfa511f0d37e3d685a8e6d2e7cd689d0') in 0.045791 seconds
+  Import took 0.047830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/People/Brutius.fbm/Brutius_Hat_Gloss.png
+  artifactKey: Guid(7a1892d515d3de34ab4957ecbad19134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Brutius.fbm/Brutius_Hat_Gloss.png using Guid(7a1892d515d3de34ab4957ecbad19134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f43d46b198dfeeca10fd608bc44679a5') in 0.045494 seconds
+  Import took 0.047273 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/People/Brutius.fbm/Brutius_Moustache_Gloss.png
+  artifactKey: Guid(e3ce14a512e8941479baa98ae3aafcef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Brutius.fbm/Brutius_Moustache_Gloss.png using Guid(e3ce14a512e8941479baa98ae3aafcef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecbef59387b808cdb08f9b24d76c073b') in 0.044340 seconds
+  Import took 0.046108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/People/Brutius.fbm/Brutius_Moustache_Normal.png
+  artifactKey: Guid(dd44d301cf52e49f6baad1cff8244bcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Brutius.fbm/Brutius_Moustache_Normal.png using Guid(dd44d301cf52e49f6baad1cff8244bcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f3a548195135d6a1269c873ac33e095') in 0.046574 seconds
+  Import took 0.048328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/People/Brutius.fbm/Brutius_Bottom_Specular.png
+  artifactKey: Guid(61362d740139ec44ba638c3c8c6f2d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Brutius.fbm/Brutius_Bottom_Specular.png using Guid(61362d740139ec44ba638c3c8c6f2d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9a657b800a3439625c38bbd9a215854') in 0.081306 seconds
+  Import took 0.083109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/People/Brutius.fbm/Brutius_Top_Diffuse.png
+  artifactKey: Guid(2ca8dd505fc684024a52da5a8758d5fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Brutius.fbm/Brutius_Top_Diffuse.png using Guid(2ca8dd505fc684024a52da5a8758d5fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32b176dcf30edccfc202b2f10fe80664') in 0.064035 seconds
+  Import took 0.065958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/People/Brutius.fbm/Brutius_Top_Opacity.png
+  artifactKey: Guid(f44d69d2f92ef6341baf0af985c23feb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Brutius.fbm/Brutius_Top_Opacity.png using Guid(f44d69d2f92ef6341baf0af985c23feb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fd23b11ceb4f0dd7d768e172a50e5b6') in 0.064576 seconds
+  Import took 0.066386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/People/Brutius.fbm/Brutius_Top_Normal.png
+  artifactKey: Guid(b4df62abc15fa45edb350cc2e9e3d19f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Brutius.fbm/Brutius_Top_Normal.png using Guid(b4df62abc15fa45edb350cc2e9e3d19f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '723c3f0b71f8a4818b0a183cd5dd2806') in 0.052336 seconds
+  Import took 0.054179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/People/Brutius.fbm/Brutius_Moustache_Opacity.png
+  artifactKey: Guid(49d6f9a6536ce884881a02706c4b2583) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Brutius.fbm/Brutius_Moustache_Opacity.png using Guid(49d6f9a6536ce884881a02706c4b2583) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64d86bdbea9e8bb3005016ed0316a50e') in 0.116204 seconds
+  Import took 0.117978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/People/Brutius.fbm/Brutius_Shoes_Diffuse.png
+  artifactKey: Guid(50c8ab3b0dd334630ac4cc7677ea61cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Brutius.fbm/Brutius_Shoes_Diffuse.png using Guid(50c8ab3b0dd334630ac4cc7677ea61cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fa182d413eb5b3ccea7b5cb962d98fb') in 0.103003 seconds
+  Import took 0.104756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/People/Brutius.fbm/Brutius_Shoes_Specular.png
+  artifactKey: Guid(c84f8a7bd7761394190851aed12eec53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Brutius.fbm/Brutius_Shoes_Specular.png using Guid(c84f8a7bd7761394190851aed12eec53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9b7c3a52a692d0eb6d106992199665d') in 0.065169 seconds
+  Import took 0.066972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/People/Brutius.fbm/Brutius_Shoes_Normal.png
+  artifactKey: Guid(747cb5060fffd46c9b7ff89a654b5597) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Brutius.fbm/Brutius_Shoes_Normal.png using Guid(747cb5060fffd46c9b7ff89a654b5597) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58a5c05442db8a53a72cf04707f10029') in 0.044266 seconds
+  Import took 0.046391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/People/Brutius.fbm/Brutius_Shoes_Opacity.png
+  artifactKey: Guid(094608d0b198e4e40ba42400e81471e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Brutius.fbm/Brutius_Shoes_Opacity.png using Guid(094608d0b198e4e40ba42400e81471e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce434c601ca0d4e452d7023c339bc41f') in 0.042235 seconds
+  Import took 0.043928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/People/Brutius.fbm/Brutius_Top_Gloss.png
+  artifactKey: Guid(97c57def33a279142b8fb5d63c3c72cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Brutius.fbm/Brutius_Top_Gloss.png using Guid(97c57def33a279142b8fb5d63c3c72cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '657e5e9d2b98978ba66a4a19084c8ef2') in 0.079241 seconds
+  Import took 0.080995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.188608 seconds.
+  path: Assets/People/Brutius.fbm/Brutius_Top_Specular.png
+  artifactKey: Guid(b57775299bce1f540b4a4df141ee0419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Brutius.fbm/Brutius_Top_Specular.png using Guid(b57775299bce1f540b4a4df141ee0419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a56c591f45823808b8700fccb364e02') in 0.055950 seconds
+  Import took 0.058526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001280 seconds.
+  path: Assets/People/Brutius.fbm/Brutius_Top_Specular.png
+  artifactKey: Guid(b57775299bce1f540b4a4df141ee0419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Brutius.fbm/Brutius_Top_Specular.png using Guid(b57775299bce1f540b4a4df141ee0419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a56c591f45823808b8700fccb364e02') in 0.011401 seconds
+  Import took 0.013650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.355771 seconds.
+  path: Assets/People/Girl_1.fbm/Girl_1_Body_Diffuse.png
+  artifactKey: Guid(63f48b5c08d25467e9e11be363436e9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Girl_1.fbm/Girl_1_Body_Diffuse.png using Guid(63f48b5c08d25467e9e11be363436e9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '033bc1133a9149c0d26a24ae1a114be5') in 0.050837 seconds
+  Import took 0.053082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/People/Girl_1.fbm/Girl_1_Body_Gloss.png
+  artifactKey: Guid(21f7acf85dabd244890cb32c90c7eda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Girl_1.fbm/Girl_1_Body_Gloss.png using Guid(21f7acf85dabd244890cb32c90c7eda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c37dbea3123dc17c2bbf1ca0a0c0d684') in 0.084596 seconds
+  Import took 0.086396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/People/Girl_1.fbm/Girl_1_Body_Opacity.png
+  artifactKey: Guid(f33dea0cc308bd04fa951b8950c368fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Girl_1.fbm/Girl_1_Body_Opacity.png using Guid(f33dea0cc308bd04fa951b8950c368fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0994be6870558d7779d85b3b5f4c96f') in 0.109824 seconds
+  Import took 0.112183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/People/Girl_1.fbm/Girl_1_Body_Normal.png
+  artifactKey: Guid(8152d0602b6ae4017956e2d21f8ed9a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Girl_1.fbm/Girl_1_Body_Normal.png using Guid(8152d0602b6ae4017956e2d21f8ed9a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb8a8d86c5943c04f0c046516f16918c') in 0.078263 seconds
+  Import took 0.080338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.237696 seconds.
+  path: Assets/People/Girl_1.fbm/Girl_1_Body_Specular.png
+  artifactKey: Guid(e546edff56e1fa44fb4ea648b526a213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Girl_1.fbm/Girl_1_Body_Specular.png using Guid(e546edff56e1fa44fb4ea648b526a213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0c0a15c28a6b36e3802b2953fde17e9') in 0.086745 seconds
+  Import took 0.088675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/People/Girl_1.fbm/Girl_1_Bottom_Specular.png
+  artifactKey: Guid(19fbb6026f356c740913c0ebe0e4116d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Girl_1.fbm/Girl_1_Bottom_Specular.png using Guid(19fbb6026f356c740913c0ebe0e4116d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '128348f0e897d23b22307bc3cb885851') in 0.085210 seconds
+  Import took 0.086956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/People/Girl_1.fbm/Girl_1_Bottom_Gloss.png
+  artifactKey: Guid(6a95d36aac77fed4e85e2c8dd386a6e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Girl_1.fbm/Girl_1_Bottom_Gloss.png using Guid(6a95d36aac77fed4e85e2c8dd386a6e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f49af644310ce6288577a69c6924fc8') in 0.054182 seconds
+  Import took 0.056132 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/People/Girl_1.fbm/Girl_1_Hair_Diffuse.png
+  artifactKey: Guid(4f20b215604934d24bc3f90fc52f1095) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Girl_1.fbm/Girl_1_Hair_Diffuse.png using Guid(4f20b215604934d24bc3f90fc52f1095) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1b9ab3d011c4d85f3ce922066b5e905') in 0.035430 seconds
+  Import took 0.037143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/People/Girl_1.fbm/Girl_1_Hair_Gloss.png
+  artifactKey: Guid(60a74ba961e6af64c8dc23834144f40d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Girl_1.fbm/Girl_1_Hair_Gloss.png using Guid(60a74ba961e6af64c8dc23834144f40d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4885ff324fa6e5eee301e88620a4e599') in 0.079965 seconds
+  Import took 0.081956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/People/Girl_1.fbm/Girl_1_Bottom_Normal.png
+  artifactKey: Guid(c6c6b1139d0c64cdd9053f32619951b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Girl_1.fbm/Girl_1_Bottom_Normal.png using Guid(c6c6b1139d0c64cdd9053f32619951b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05eab4627a01e3fa4d415e25dacc1bc7') in 0.085504 seconds
+  Import took 0.088002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/People/Girl_1.fbm/Girl_1_Bottom_Opacity.png
+  artifactKey: Guid(53be05579fedd6e458f03798fde47361) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Girl_1.fbm/Girl_1_Bottom_Opacity.png using Guid(53be05579fedd6e458f03798fde47361) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1b935194a300f442fdacdb84d7296fc') in 0.041396 seconds
+  Import took 0.043772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/People/Girl_1.fbm/Girl_1_Bottom_Diffuse.png
+  artifactKey: Guid(8d40b40d0e9b44c83957ec938937ec06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Girl_1.fbm/Girl_1_Bottom_Diffuse.png using Guid(8d40b40d0e9b44c83957ec938937ec06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fe561ad68cf9b79a1aeeda8e0a166cd') in 0.076042 seconds
+  Import took 0.077865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.029652 seconds.
+  path: Assets/People/Brutius.fbm
+  artifactKey: Guid(e17ab243cdc7b37449cb4b4659872c0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/Brutius.fbm using Guid(e17ab243cdc7b37449cb4b4659872c0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '524e7fca5f4917f09b31cc85eecddc8f') in 0.006857 seconds
+  Import took 0.008932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.949067 seconds.
+  path: Assets/People/regina@Dwarf Idle.fbm
+  artifactKey: Guid(c75634a69a05f5441bad959305526087) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/regina@Dwarf Idle.fbm using Guid(c75634a69a05f5441bad959305526087) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fec0938c70c697056a901567d8d07752') in 0.017757 seconds
+  Import took 0.019948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.238830 seconds.
+  path: Assets/People/regina@Walking.fbm
+  artifactKey: Guid(3fdfd91f5c3221d4aadc189c4d18654b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/regina@Walking.fbm using Guid(3fdfd91f5c3221d4aadc189c4d18654b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fb84647d6add568804f4d799dd1160f') in 0.017671 seconds
+  Import took 0.019740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.082509 seconds.
+  path: Assets/People/regina@Walking.fbm/Regina_Body_Diffuse.png
+  artifactKey: Guid(84a99e9bca034dc4bb539e7cc75cb090) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/regina@Walking.fbm/Regina_Body_Diffuse.png using Guid(84a99e9bca034dc4bb539e7cc75cb090) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c19fd85496d88fe60418634be2d75a2e') in 0.085010 seconds
+  Import took 0.087730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/People/regina@Walking.fbm/Regina_Shoes_Opacity.png
+  artifactKey: Guid(7b087fe12583a5049aeeb6c78f5be503) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/regina@Walking.fbm/Regina_Shoes_Opacity.png using Guid(7b087fe12583a5049aeeb6c78f5be503) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '924d43f1389d756de6755a900971d483') in 0.073155 seconds
+  Import took 0.075034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/People/regina@Walking.fbm/Regina_Hat_Specular.png
+  artifactKey: Guid(6067b36c7b85c914b913107f4399c821) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/regina@Walking.fbm/Regina_Hat_Specular.png using Guid(6067b36c7b85c914b913107f4399c821) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00639f5ebdb19bc8fb7339e444432014') in 0.088190 seconds
+  Import took 0.090120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/People/regina@Walking.fbm/Regina_Hat_Normal.png
+  artifactKey: Guid(177f256fec49e77449f898ed51774704) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/regina@Walking.fbm/Regina_Hat_Normal.png using Guid(177f256fec49e77449f898ed51774704) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa618b9522c5553e0d4ad4bfb5cc0999') in 0.097679 seconds
+  Import took 0.099765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/People/regina@Walking.fbm/Regina_Top_Diffuse.png
+  artifactKey: Guid(0124e26146ee19b40b5bd00fea14c7d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/regina@Walking.fbm/Regina_Top_Diffuse.png using Guid(0124e26146ee19b40b5bd00fea14c7d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a023b769ffe8299e90bd575a98944237') in 0.079771 seconds
+  Import took 0.082015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/People/regina@Walking.fbm/Regina_Hat_Opacity.png
+  artifactKey: Guid(22023a66fc9b4d1488861718a39eb9e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/regina@Walking.fbm/Regina_Hat_Opacity.png using Guid(22023a66fc9b4d1488861718a39eb9e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f884df1d092abae421c91e103cb4daf1') in 0.097311 seconds
+  Import took 0.099726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/People/regina@Walking.fbm/Regina_Body_Gloss.png
+  artifactKey: Guid(7d2f69d474e04f54eaa2cda45b2982d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/regina@Walking.fbm/Regina_Body_Gloss.png using Guid(7d2f69d474e04f54eaa2cda45b2982d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55e3c07640ca769bb236c1a9df8a2fdd') in 0.151530 seconds
+  Import took 0.154587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/People/regina@Walking.fbm/Regina_Top_Normal.png
+  artifactKey: Guid(2df99331f8c4e834c9f8eb5b6e2f674b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/regina@Walking.fbm/Regina_Top_Normal.png using Guid(2df99331f8c4e834c9f8eb5b6e2f674b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02af33952df2283368963b0adfb8792c') in 0.056491 seconds
+  Import took 0.058765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/People/regina@Walking.fbm/Regina_Hat_Diffuse.png
+  artifactKey: Guid(8dd8851e819300648a8c5ca82f55c09a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/regina@Walking.fbm/Regina_Hat_Diffuse.png using Guid(8dd8851e819300648a8c5ca82f55c09a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '028527815f0e5c7733c338e54afde103') in 0.067301 seconds
+  Import took 0.069197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/People/regina@Walking.fbm/Regina_Shoes_Gloss.png
+  artifactKey: Guid(4546c1bdeecb28d4ca49fc1eb92a1ce3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/regina@Walking.fbm/Regina_Shoes_Gloss.png using Guid(4546c1bdeecb28d4ca49fc1eb92a1ce3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e17b36b467d4140ab85b9d684a9cae1c') in 0.032913 seconds
+  Import took 0.034710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/People/regina@Walking.fbm/Regina_Body_Opacity.png
+  artifactKey: Guid(070e02d25f8be6e4c929f6a0d39d58bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/regina@Walking.fbm/Regina_Body_Opacity.png using Guid(070e02d25f8be6e4c929f6a0d39d58bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '463cccfa6378bdf552c1256bbb29d68f') in 0.109892 seconds
+  Import took 0.111929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/People/regina@Walking.fbm/Regina_Bottom_Normal.png
+  artifactKey: Guid(42ae40abb1ecc544187b4a379b83fc41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/regina@Walking.fbm/Regina_Bottom_Normal.png using Guid(42ae40abb1ecc544187b4a379b83fc41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '803a0a9c822e23e08a70709534b4f0e1') in 0.074889 seconds
+  Import took 0.076771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/People/regina@Walking.fbm/Regina_Top_Opacity.png
+  artifactKey: Guid(1e0ed941d2c021640b54ddaa16659c2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/regina@Walking.fbm/Regina_Top_Opacity.png using Guid(1e0ed941d2c021640b54ddaa16659c2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '835b865cee08026db07d26c2c36ac5a4') in 0.102105 seconds
+  Import took 0.104135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/People/regina@Walking.fbm/Regina_Shoes_Diffuse.png
+  artifactKey: Guid(deebdfeedade8514bb9855ed93f74673) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/regina@Walking.fbm/Regina_Shoes_Diffuse.png using Guid(deebdfeedade8514bb9855ed93f74673) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3498d435318513e13c90de6a50725235') in 0.172161 seconds
+  Import took 0.174235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/People/regina@Walking.fbm/Regina_Top_Specular.png
+  artifactKey: Guid(ec570b542163a674aa150a71ffef7978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/regina@Walking.fbm/Regina_Top_Specular.png using Guid(ec570b542163a674aa150a71ffef7978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7e83e68d5e3f7d37aef419617edc338') in 0.060271 seconds
+  Import took 0.062357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/People/regina@Walking.fbm/Regina_Body_Normal.png
+  artifactKey: Guid(69bb85172554e12468dfbbad624e3e97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/regina@Walking.fbm/Regina_Body_Normal.png using Guid(69bb85172554e12468dfbbad624e3e97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c220923567a29341230f1d6a2deafff8') in 0.129283 seconds
+  Import took 0.131608 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/People/regina@Walking.fbm/Regina_Bottom_Diffuse.png
+  artifactKey: Guid(f3a17163e9f34994d93eb8074a5a7093) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/regina@Walking.fbm/Regina_Bottom_Diffuse.png using Guid(f3a17163e9f34994d93eb8074a5a7093) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ac2d154279d0fbaf05247912230cf23') in 0.068126 seconds
+  Import took 0.070242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/People/regina@Walking.fbm/Regina_Bottom_Specular.png
+  artifactKey: Guid(b154e5e4fa1ebf84885b2e07fe3822e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/regina@Walking.fbm/Regina_Bottom_Specular.png using Guid(b154e5e4fa1ebf84885b2e07fe3822e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd7d601a89ce27bec54e7a523a547a8e') in 0.041289 seconds
+  Import took 0.043152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/People/regina@Walking.fbm/Regina_Hair_Diffuse.png
+  artifactKey: Guid(b611b519a5f7a9a4cbeaa0e47911ccc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/regina@Walking.fbm/Regina_Hair_Diffuse.png using Guid(b611b519a5f7a9a4cbeaa0e47911ccc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97048dbb6ce6275512aeaf95ee65c195') in 0.086661 seconds
+  Import took 0.089116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/People/regina@Walking.fbm/Regina_Body_Specular.png
+  artifactKey: Guid(398dc6a29f4df284aba1cf6d6be6d143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/regina@Walking.fbm/Regina_Body_Specular.png using Guid(398dc6a29f4df284aba1cf6d6be6d143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca2ce201f5a30a107340050a34e2e944') in 0.125229 seconds
+  Import took 0.127461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/People/regina@Walking.fbm/Regina_Hair_Gloss.png
+  artifactKey: Guid(908ec536453eaa44f9167173492517f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/regina@Walking.fbm/Regina_Hair_Gloss.png using Guid(908ec536453eaa44f9167173492517f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '653e8256dfe37cce97604d6dcfb52b81') in 0.028905 seconds
+  Import took 0.030880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/People/regina@Walking.fbm/Regina_Top_Gloss.png
+  artifactKey: Guid(a08006131e75f044691082a43d509cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/regina@Walking.fbm/Regina_Top_Gloss.png using Guid(a08006131e75f044691082a43d509cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac0b07631b5df65a21a9d39aa089f00a') in 0.098696 seconds
+  Import took 0.100436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/People/regina@Walking.fbm/Regina_Hair_Specular.png
+  artifactKey: Guid(2ad29cef5b5cf214b9be401c009d4548) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/regina@Walking.fbm/Regina_Hair_Specular.png using Guid(2ad29cef5b5cf214b9be401c009d4548) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac88dac3fa670b0ddd0e292c0b7ae2c7') in 0.173667 seconds
+  Import took 0.175442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/People/regina@Walking.fbm/Regina_Hair_Normal.png
+  artifactKey: Guid(b6d954bce48ddf24182bcb137b6ac2fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/regina@Walking.fbm/Regina_Hair_Normal.png using Guid(b6d954bce48ddf24182bcb137b6ac2fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b997266d047eb57690aed877a5d4fc5') in 0.060046 seconds
+  Import took 0.062068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/People/regina@Walking.fbm/Regina_Shoes_Specular.png
+  artifactKey: Guid(352abd81be947be40b012d9ff865e6fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/regina@Walking.fbm/Regina_Shoes_Specular.png using Guid(352abd81be947be40b012d9ff865e6fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb1d64027d47652aa1d9377b9465c54a') in 0.082906 seconds
+  Import took 0.084693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/People/regina@Walking.fbm/Regina_Hair_Opacity.png
+  artifactKey: Guid(60082b163e2db194885ccc2ad99f3b55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/regina@Walking.fbm/Regina_Hair_Opacity.png using Guid(60082b163e2db194885ccc2ad99f3b55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c956f935d8e960d1ba5fd0deac0427d9') in 0.133390 seconds
+  Import took 0.135309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/People/regina@Walking.fbm/Regina_Shoes_Normal.png
+  artifactKey: Guid(9e12260634170bb4ab0fc42f39eeca83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/regina@Walking.fbm/Regina_Shoes_Normal.png using Guid(9e12260634170bb4ab0fc42f39eeca83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b46cc27296f69098e3cc57c16c9c6564') in 0.051707 seconds
+  Import took 0.053918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/People/regina@Walking.fbm/Regina_Hat_Gloss.png
+  artifactKey: Guid(1aa280f098346104a992b01f1690fe71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/regina@Walking.fbm/Regina_Hat_Gloss.png using Guid(1aa280f098346104a992b01f1690fe71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b47fbccb24cf341fface9f5d89f1d83') in 0.057283 seconds
+  Import took 0.059016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/People/regina@Walking.fbm/Regina_Bottom_Gloss.png
+  artifactKey: Guid(f2da2d45d61fefd4aa0802d7cc4b38d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/regina@Walking.fbm/Regina_Bottom_Gloss.png using Guid(f2da2d45d61fefd4aa0802d7cc4b38d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba72dd2fbc07b037580f2f562c6bae1a') in 0.046513 seconds
+  Import took 0.048364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/People/regina@Walking.fbm/Regina_Bottom_Opacity.png
+  artifactKey: Guid(396785d93d3e7a344beed602fcfe6432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/People/regina@Walking.fbm/Regina_Bottom_Opacity.png using Guid(396785d93d3e7a344beed602fcfe6432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '867d988579d6fcad42cbeb25fb246eb6') in 0.039574 seconds
+  Import took 0.041471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.762393 seconds.
+  path: Assets/PeopleScriptableObjects/People 1.asset
+  artifactKey: Guid(004f036a902563d4faf4c4825823021f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PeopleScriptableObjects/People 1.asset using Guid(004f036a902563d4faf4c4825823021f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fd46f7cdb74d0600724a201be2f05fc') in 0.007428 seconds
+  Import took 0.009334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 70.325478 seconds.
+  path: Assets/PeopleScriptableObjects/People4.asset
+  artifactKey: Guid(ed408f44b81c0dc43ba48f9073a4eb3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PeopleScriptableObjects/People4.asset using Guid(ed408f44b81c0dc43ba48f9073a4eb3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce11ce97d6f1a05f0245119b252018f3') in 0.008362 seconds
+  Import took 0.010957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.569872 seconds.
+  path: Assets/PeopleScriptableObjects/People 2.asset
+  artifactKey: Guid(5a5fd2c42832cd641b525419c2b8f50d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PeopleScriptableObjects/People 2.asset using Guid(5a5fd2c42832cd641b525419c2b8f50d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb27568bfcfcab1f0cbfd6bc3ae837ae') in 0.007233 seconds
+  Import took 0.009201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/PeopleScriptableObjects/People4.asset
+  artifactKey: Guid(ed408f44b81c0dc43ba48f9073a4eb3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PeopleScriptableObjects/People4.asset using Guid(ed408f44b81c0dc43ba48f9073a4eb3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c58872a6f92d6fef543a5668c971e0f8') in 0.003302 seconds
+  Import took 0.005260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/PeopleScriptableObjects/People 3.asset
+  artifactKey: Guid(0c70e68bd4ea37e49b1397bf6fb93d80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PeopleScriptableObjects/People 3.asset using Guid(0c70e68bd4ea37e49b1397bf6fb93d80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c315e08e79b98adc6a451dd3824d5fba') in 0.005313 seconds
+  Import took 0.020008 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
